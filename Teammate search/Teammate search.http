@@ -1,0 +1,6 @@
+@Teammate_search_HostAddress = http://localhost:5152
+
+GET {{Teammate_search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
